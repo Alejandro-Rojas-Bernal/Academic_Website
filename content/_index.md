@@ -60,7 +60,7 @@ sections:
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: la.rojas1560@gmail.com
-      phone: + 778 751 8194
+      #phone: + 778 751 8194
       #appointment_url: 'https://calendly.com'
       #address:
       #  street: 450 Serra Mall
