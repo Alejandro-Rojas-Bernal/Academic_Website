@@ -51,6 +51,16 @@ sections:
     design:
       columns: '2'
       view: card
+  - block: collection
+    id: talks
+    content:
+      title: Recent & Upcoming Talks
+      filters:
+        folders:
+          - event
+    design:
+      columns: '1'
+      view: compact
   - block: features
     content:
       title: Skills
@@ -67,16 +77,6 @@ sections:
           description: 10%
           icon: camera-retro
           icon_pack: fas
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
   - block: contact
     id: contact
     content:
