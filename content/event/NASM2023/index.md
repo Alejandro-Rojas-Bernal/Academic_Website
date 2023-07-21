@@ -4,7 +4,7 @@ title: Canadian Economic Association 2023
 event: Canadian Economic Association
 event_url: https://www.economics.ca/cpages/cea2023
 
-location: Winnipeg, Manitoba
+location: UCLA, Los Angeles, California
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford
