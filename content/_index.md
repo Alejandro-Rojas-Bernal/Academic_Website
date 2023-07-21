@@ -60,16 +60,16 @@ sections:
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: la.rojas1560@gmail.com
-      #phone: + 778 751 8194
+      phone: +1-778-751-8194
       #appointment_url: 'https://calendly.com'
-      #address:
-      #  street: 450 Serra Mall
-      #  city: Stanford
-      #  region: CA
-      #  postcode: '94305'
-      #  country: United States
-      #  country_code: US
-      #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      address:
+        street: 6000 Iona Drive
+        city: Vancouver
+        region: BC
+        postcode: 'V6T 1Z1'
+        country: Canada
+        country_code: CA
+      directions: Office 435
       #office_hours:
       #  - 'Monday 10:00 to 13:00'
       #  - 'Wednesday 09:00 to 10:00'
