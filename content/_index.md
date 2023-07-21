@@ -52,6 +52,7 @@ sections:
       columns: '2'
       view: card
   - block: accomplishments
+    id: featured
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: Past & Upcoming Talks
