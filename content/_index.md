@@ -89,5 +89,5 @@ sections:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: false
     design:
-      columns: '2'
+      columns: '1'
 ---
