@@ -60,7 +60,7 @@ sections:
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: la.rojas1560@gmail.com
-      phone: +1 778 7518194
+      #phone: +1 778 7518194
       #appointment_url: 'https://calendly.com'
       #address:
       #  street: 6000 Iona Drive
