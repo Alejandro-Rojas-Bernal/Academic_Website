@@ -51,30 +51,6 @@ sections:
     design:
       columns: '2'
       view: card
-  - block: accomplishments
-    id: talks
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: Past and Upcoming Talks
-      subtitle:
-      # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 06 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: https://www.economics.ca/cpages/cea2023
-          date_end: ''
-          date_start: '2021-06-03'
-          description: ''
-          organization: Canadian Economic Association Meeting 2023
-          organization_url: https://www.economics.ca
-          title: Inequality and Misallocation Under Production Networks
-          url: ''
-    design:
-      columns: '1'
   - block: features
     content:
       title: Skills
