@@ -60,7 +60,10 @@ social:
   link: https://twitter.com/alejandro_econ
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.ca/citations?user=QxTK40EAAAAJ&hl=en
+- icon: ideas-repec
+  icon_pack: ai
+  link: https://scholar.google.ca/citations?user=QxTK40EAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
