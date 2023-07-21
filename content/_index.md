@@ -57,7 +57,7 @@ sections:
       items:
         - name: R
           description: 90%
-          icon: r-project
+          icon: bicycle
           icon_pack: fab
         - name: Statistics
           description: 100%
