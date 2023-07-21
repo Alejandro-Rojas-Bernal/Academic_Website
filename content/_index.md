@@ -58,16 +58,16 @@ sections:
       subtitle:
       # Contact (add or remove contact options as necessary)
       email: la.rojas1560@gmail.com
-      #phone: +1 778 7518194
+      phone: +1-778-751-8194
       #appointment_url: 'https://calendly.com'
-      #address:
-      #  street: 6000 Iona Drive
-      #  city: Vancouver
-      #  region: BC
-      #  postcode: 'V6T 1Z1'
-      #  country: Canada
-      #  country_code: CA
-      #directions: Office 435
+      address:
+        street: 6000 Iona Drive
+        city: Vancouver
+        region: BC
+        postcode: 'V6T 1Z1'
+        country: Canada
+        country_code: CA
+        directions: Office 435
       #office_hours:
       #  - 'Monday 10:00 to 13:00'
       #  - 'Wednesday 09:00 to 10:00'
@@ -87,5 +87,5 @@ sections:
       #   # Enable CAPTCHA challenge to reduce spam?
       #   captcha: false
     design:
-      columns: '1'
+      columns: '2'
 ---
