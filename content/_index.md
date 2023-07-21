@@ -65,13 +65,13 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://www.economics.ca/cpages/cea2023
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2021-06-03'
           description: ''
-          organization: Coursera
+          organization: Canadian Economic Association Meeting 2023
           organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          title: Inequality and Misallocation Under Production Networks
           url: ''
     design:
       columns: '1'
