@@ -67,7 +67,7 @@ sections:
         postcode: 'V6T 1Z1'
         country: Canada
         country_code: CA
-        directions: Office 435
+      #directions: Office 435
       #office_hours:
       #  - 'Monday 10:00 to 13:00'
       #  - 'Wednesday 09:00 to 10:00'
