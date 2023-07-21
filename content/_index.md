@@ -28,8 +28,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Production Networks
+          tag: Production Networks
+        - name: Heterogeneity
+          tag: Heterogeneity
         - name: Other
           tag: Demo
     design:
@@ -37,7 +39,7 @@ sections:
       columns: '1'
       view: showcase
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+      flip_alt_rows: true
   - block: features
     content:
       title: Skills
