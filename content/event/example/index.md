@@ -2,7 +2,7 @@
 title: Canadian Economic 
 
 event: Canadian Economic Association
-event_url: https://example.org
+event_url: https://www.economics.ca/cpages/cea2023
 
 location: Winnipeg, Manitoba
 #address:
