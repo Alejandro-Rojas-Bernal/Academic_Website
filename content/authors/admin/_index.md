@@ -63,7 +63,7 @@ social:
   link: https://scholar.google.ca/citations?user=QxTK40EAAAAJ&hl=en
 - icon: ideas-repec
   icon_pack: ai
-  link: https://scholar.google.ca/citations?user=QxTK40EAAAAJ&hl=en
+  link: https://authors.repec.org/pro/pro1333/
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
