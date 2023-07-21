@@ -62,13 +62,13 @@ sections:
       email: la.rojas1560@gmail.com
       phone: +1-778-751-8194
       #appointment_url: 'https://calendly.com'
-      address:
-        street: 6000 Iona Drive
-        city: Vancouver
-        region: BC
-        postcode: 'V6T 1Z1'
-        country: Canada
-        country_code: CA
+      #address:
+      #  street: 6000 Iona Drive
+      #  city: Vancouver
+      #  region: BC
+      #  postcode: 'V6T 1Z1'
+      #  country: Canada
+      #  country_code: CA
       #directions: Office 435
       #office_hours:
       #  - 'Monday 10:00 to 13:00'
