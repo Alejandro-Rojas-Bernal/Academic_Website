@@ -15,7 +15,7 @@ role: PhD Candidate in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of British Columbia
+  - name: University of British Columbia, Vancouver School of Economics
     url: https://economics.ubc.ca/
 
 # Short bio (displayed in user profile at end of posts)
