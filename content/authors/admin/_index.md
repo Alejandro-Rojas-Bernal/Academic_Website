@@ -58,8 +58,8 @@ social:
   icon_pack: fab
   label: Follow me on Twitter
   link: https://twitter.com/alejandro_econ
-- icon: graduation-cap
-  icon_pack: fas
+- icon: google-scholar
+  icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
