@@ -76,7 +76,7 @@ sections:
       contact_links:
         - icon: twitter
           icon_pack: fab
-          name: @alejandro_econ
+          name: alejandro_econ
           link: 'https://twitter.com/alejandro_econ'
       # Automatically link email and phone or display as text?
       autolink: true
