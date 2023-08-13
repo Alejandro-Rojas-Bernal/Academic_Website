@@ -19,7 +19,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/alejandro_econ
+    url: https://twitter.com/alejandro_econ/status/1690198520421347328?s=20
 url_code: ''
 url_pdf: ''
 url_slides: ''
