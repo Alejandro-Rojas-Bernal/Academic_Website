@@ -21,11 +21,9 @@ links:
     name: Follow
     url: https://twitter.com/alejandro_econ/status/1690198520421347328?s=20
 url_code: ''
-url_pdf: ''
+url_pdf: 'https://github.com/Alejandro-Rojas-Bernal/Academic_Website/blob/main/content/working-papers/Inequality-and-Misallocation/Inequality%20and%20Misallocation%20under%20Production%20Networks_Latest%20Version.pdf'
 url_slides: ''
 url_video: ''
-
-pdf: Inequality and Misallocation under Production Networks_Latest Version.pdf
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
