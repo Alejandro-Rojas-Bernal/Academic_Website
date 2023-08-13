@@ -21,7 +21,7 @@ links:
     name: Follow
     url: https://twitter.com/alejandro_econ/status/1690198520421347328?s=20
 url_code: ''
-url_pdf: 'https://github.com/Alejandro-Rojas-Bernal/Academic_Website/blob/main/content/working-papers/Inequality-and-Misallocation/Inequality%20and%20Misallocation%20under%20Production%20Networks_Latest%20Version.pdf'
+url_pdf: 'https://www.dropbox.com/scl/fo/6p78qh1eht73uey0t7r19/h?rlkey=cw2yhonhjmlk27pbvsf5uxmed&dl=0'
 url_slides: ''
 url_video: ''
 
@@ -30,7 +30,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
 In this paper, I develop an aggregation theory for distorted production network economies with heterogeneous households and endogenous labor supply. I provide nonparametric formulas that capture the impact of changes in the income and consumption distributions on the aggregate and distributional propagation of microeconomic shocks. I demonstrate that macroeconomic theories that rely solely on an aggregate production function and ignore variations in the consumption distribution are biased when households have no symmetry in the centrality of their expenditure on the income distribution. I compare the outcomes of a decentralized economy with those of a constrained social planner and show that the distributions of income and consumption are inefficient when the dilution of the consumption expenditure that reaches labor revenue is not symmetric across workers. Finally, I estimate the first quantitative implementation for a production network environment in the United States with household heterogeneity. The results suggest that the variations in the income and consumption distributions are responsible for 20% of the business cycle volatility, and that microeconomic shocks and the production network play a significant role in explaining income and real consumption inequalities.
