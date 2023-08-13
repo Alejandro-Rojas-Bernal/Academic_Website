@@ -5,12 +5,13 @@ tags:
   - Production Networks
   - Heterogeneity
 date: '2023-07-21T12:25:00Z'
+featured: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-#  caption: Photo by rawpixel on Unsplash
+#  caption: 
 #  focal_point: Smart
 preview_only: false
 
