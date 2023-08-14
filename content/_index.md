@@ -51,9 +51,9 @@ sections:
     design:
       columns: '2'
       view: card
-  - block: experience
+  - block: talks
     content:
-      title: Experience
+      title: Talks
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -71,10 +71,6 @@ sections:
           date_start: '2021-01-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
-              * Analysing
-              * Modelling
-              * Deploying
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
@@ -84,7 +80,7 @@ sections:
           date_end: '2020-12-31'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
-      columns: '2'
+      columns: '1'
   - block: contact
     id: contact
     content:
