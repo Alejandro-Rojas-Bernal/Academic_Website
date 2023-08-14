@@ -64,7 +64,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: 2023 Econometric Society Australasian Meeting
+        - title: Australasian Meeting of the Econometric Society 2023
           company: University of New South Wales
           company_url: 'https://www.esam2023.org/'
           company_logo: unsw-logo
@@ -73,12 +73,13 @@ sections:
           date_end: '2023-08-10'
           description: |2-
         - title: 
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          company: Asiam Meeting Econometric Society 2023
+          company: Nanyang Technological University
+          company_url: 'https://www.ames2023ntu.org/'
+          company_logo: ntu-logo
+          location: Singapore
+          date_start: '2023-06-28'
+          date_end: '2023-06-30'
           description: 
     design:
       columns: '1'
