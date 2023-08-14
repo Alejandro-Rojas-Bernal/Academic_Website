@@ -72,8 +72,7 @@ sections:
           date_start: '2023-08-07'
           date_end: '2023-08-10'
           description: |2-
-        - title: 
-          company: Asian Meeting of the Econometric Society 2023
+        - title: Asian Meeting of the Econometric Society 2023
           company: Nanyang Technological University
           company_url: 'https://www.ames2023ntu.org/'
           company_logo: ntu-logo
@@ -81,8 +80,7 @@ sections:
           date_start: '2023-07-28'
           date_end: '2023-07-30'
           description: |2-
-        - title: 
-          company: North American Meeting of the Econometric Society 2023
+        - title: North American Meeting of the Econometric Society 2023
           company: University of California, Los Angeles
           company_url: 'https://www.econometricsociety.org/regional-activities/schedule/2023/06/22/2023-North-American-Summer-Meeting-NASM-Los-Angeles-CA'
           company_logo: ucla-logo
