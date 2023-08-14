@@ -69,7 +69,6 @@ sections:
           company_logo: org-gc
           location: Sydney, Australia
           date_start: '2023-08-09'
-          date_end: ''
           description: |2-
         - title: 
           company: University X
