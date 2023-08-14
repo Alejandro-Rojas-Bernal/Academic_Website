@@ -71,7 +71,7 @@ sections:
           date_start: '2021-01-01'
           date_end: ''
           description: |2-
-        - title: Professor of Semiconductor Physics
+        - title: 
           company: University X
           company_url: ''
           company_logo: org-x
