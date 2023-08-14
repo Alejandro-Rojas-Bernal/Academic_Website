@@ -80,7 +80,7 @@ sections:
           location: Singapore
           date_start: '2023-06-28'
           date_end: '2023-06-30'
-          description: 
+          description: |2-
     design:
       columns: '1'
   - block: contact
