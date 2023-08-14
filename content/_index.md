@@ -51,7 +51,7 @@ sections:
     design:
       columns: '2'
       view: card
-  - block: experience
+  - block: talks
     id: talks
     content:
       title: Talks
