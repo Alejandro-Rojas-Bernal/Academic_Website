@@ -65,10 +65,10 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: 2023 Econometric Society Australasian Meeting
-          company: University of New South Wales, Sydney, Australia
+          company: University of New South Wales
           company_url: 'https://www.esam2023.org/'
           company_logo: org-gc
-          #location: Sydney, Australia
+          location: Sydney, Australia
           date_start: '2023-08-07'
           date_end: '2023-08-10'
           description: |2-
