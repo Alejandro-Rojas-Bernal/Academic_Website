@@ -52,11 +52,9 @@ sections:
       columns: '2'
       view: card
   - block: experience
+    id: talks
     content:
       title: Talks
-      filters:
-        folders:
-          - talks
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
