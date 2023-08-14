@@ -88,6 +88,14 @@ sections:
           date_start: '2023-06-22'
           date_end: '2023-06-25'
           description: |2-
+        - title: Canadian Economic Association 2023
+          company: University of Manitoba
+          company_url: 'https://www.economics.ca/cpages/cea2023'
+          company_logo: manitoba-logo
+          location: Winnipeg, Manitoba
+          date_start: '2023-06-01'
+          date_end: '2023-06-03'
+          description: |2-
     design:
       columns: '1'
   - block: contact
