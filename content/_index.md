@@ -51,7 +51,7 @@ sections:
     design:
       columns: '2'
       view: card
-  - block: talks
+  - block: experience
     content:
       title: Talks
       # Date format for experience
