@@ -72,6 +72,15 @@ sections:
           date_start: '2023-08-07'
           date_end: '2023-08-10'
           description: |2-
+        - title: 
+          company: Asiam Meeting Econometric Society 2023
+          company: Nanyang Technological University
+          company_url: 'https://www.ames2023ntu.org/'
+          company_logo: ntu-logo
+          location: Singapore
+          date_start: '2023-06-28'
+          date_end: '2023-06-30'
+          description: |2-
     design:
       columns: '1'
   - block: contact
