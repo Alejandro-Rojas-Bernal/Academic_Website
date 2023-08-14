@@ -67,7 +67,7 @@ sections:
         - title: 2023 Econometric Society Australasian Meeting
           company: University of New South Wales
           company_url: 'https://www.esam2023.org/'
-          company_logo: org-gc
+          company_logo: unsw-logo
           location: Sydney, Australia
           date_start: '2023-08-07'
           date_end: '2023-08-10'
