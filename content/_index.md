@@ -68,6 +68,8 @@ sections:
           company_url: 'https://www.esam2023.org/program'
           company_logo: org-gc
           location: Sydney, Australia
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
           description: |2-
         - title: 
           company: University X
