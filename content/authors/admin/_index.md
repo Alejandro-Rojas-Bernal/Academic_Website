@@ -27,6 +27,7 @@ interests:
   - International Finance
   - Production Networks
   - Heterogeneity
+  - International Economics
   
 # Education to show in About widget
 education:
