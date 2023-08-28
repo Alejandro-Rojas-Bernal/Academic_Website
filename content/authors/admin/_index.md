@@ -76,5 +76,7 @@ social:
 email: ''
 ---
 
-I am a macroeconomist working in production networks, international finance, and inequality. My main line of work is understanding the effects of variations in the income and consumption distributions on misallocation and growth. I will be on the 2023-2024 job market.
+I am a macroeconomist working in production networks, international finance, and inequality. My main line of work is understanding the effects of variations in the income and consumption distributions on misallocation and growth. 
+
+I will be on the 2023-2024 job market.
 {style="text-align: justify;"}
