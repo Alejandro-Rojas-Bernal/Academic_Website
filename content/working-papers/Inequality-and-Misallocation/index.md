@@ -4,7 +4,7 @@ summary: In this paper, I develop an aggregation theory for distorted production
 tags:
   - Production Networks
   - Heterogeneity
-date: '2023-07-21T12:25:00Z'
+date: '2023-08-28T12:25:00Z'
 featured: false
 
 # Optional external URL for project (replaces project detail page).
