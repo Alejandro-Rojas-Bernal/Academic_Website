@@ -13,7 +13,7 @@ external_link: ''
 image:
 #  caption: 
 #  focal_point: Smart
-preview_only: false
+preview_only: true
 
 links:
   - icon: twitter
