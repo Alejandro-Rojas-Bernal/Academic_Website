@@ -32,6 +32,8 @@ sections:
           tag: Production Networks
         - name: Heterogeneity
           tag: Heterogeneity
+        - name: Open Economy
+          tag: Open Economy
         - name: Other
           tag: Demo
     design:
