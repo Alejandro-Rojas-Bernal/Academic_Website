@@ -1,5 +1,5 @@
 ---
-title: Growth Through Industrial Linkages
+title: The Macroeconomic Impact of Microeconomic Shocks under Distortions
 authors:
 - Alejandro Rojas-Bernal
 - Ali Karimirad
