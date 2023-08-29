@@ -6,7 +6,7 @@ tags:
   - Heterogeneity
   - Open Economy
 date: '2023-08-10T12:25:00Z'
-featured: false
+featured: true
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
