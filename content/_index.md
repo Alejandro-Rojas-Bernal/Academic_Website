@@ -106,7 +106,7 @@ sections:
       title: Contact
       subtitle:
       # Contact (add or remove contact options as necessary)
-      email: la.rojas1560@gmail.com
+      email: alejandrorojasecon@gmail.com
       phone: +1-778-751-8194
       #appointment_url: 'https://calendly.com'
       address:
