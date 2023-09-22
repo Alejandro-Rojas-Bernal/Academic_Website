@@ -23,7 +23,7 @@ links:
     name: Follow
     url: https://twitter.com/alejandro_econ/status/1690198520421347328?s=20
 url_code: ''
-url_pdf: 'https://www.dropbox.com/scl/fo/6p78qh1eht73uey0t7r19/h?rlkey=cw2yhonhjmlk27pbvsf5uxmed&dl=0'
+url_pdf: ''
 url_slides: ''
 url_video: ''
 
