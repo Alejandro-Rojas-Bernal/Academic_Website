@@ -65,6 +65,9 @@ social:
 - icon: ideas-repec
   icon_pack: ai
   link: https://authors.repec.org/pro/pro1333/
+- icon: ssrn
+  icon_pack: ai
+  link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4053925
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
