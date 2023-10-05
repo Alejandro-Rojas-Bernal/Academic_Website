@@ -115,12 +115,11 @@ sections:
       items:
         - title: Australasian Meeting of the Econometric Society 2023
           company: University of New South Wales
-          company_url: 'https://www.esam2023.org/'
+          company_url: uploads/resume.pdf
           company_logo: unsw-logo
           location: Sydney, Australia
           date_start: '2023-08-07'
           date_end: '2023-08-10'
-          url: uploads/resume.pdf
           description: |2-
         - title: Asian Meeting of the Econometric Society 2023
           company: Nanyang Technological University
