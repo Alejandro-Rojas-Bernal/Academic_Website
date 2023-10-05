@@ -100,6 +100,37 @@ sections:
           description: |2-
     design:
       columns: '1'
+  - block: experience
+    id: teaching
+    content:
+      title: Teaching
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Australasian Meeting of the Econometric Society 2023
+          company: University of New South Wales
+          company_url: 'https://www.esam2023.org/'
+          company_logo: unsw-logo
+          location: Sydney, Australia
+          date_start: '2023-08-07'
+          date_end: '2023-08-10'
+          description: |2-
+        - title: Asian Meeting of the Econometric Society 2023
+          company: Nanyang Technological University
+          company_url: 'https://www.ames2023ntu.org/'
+          company_logo: ntu-logo
+          location: Singapore
+          date_start: '2023-07-28'
+          date_end: '2023-07-30'
+          description: |2-
+    design:
+      columns: '1'
   - block: contact
     id: contact
     content:
