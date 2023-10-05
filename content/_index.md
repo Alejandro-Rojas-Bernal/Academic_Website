@@ -114,13 +114,15 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: University of British Columbia
-          company: teaching evaluations
+          company: Teaching Evaluations
           company_url: uploads/teaching_evaluations.pdf
           company_logo: UBC
           location: Sydney, Australia
           date_start: '2023-08-07'
           date_end: '2023-08-10'
-          description: FFFFFFFFFFF|2-
+          description: AAAA
+          BBB
+          CCC
         - title: Asian Meeting of the Econometric Society 2023
           company: Nanyang Technological University
           company_url: 'https://www.ames2023ntu.org/'
