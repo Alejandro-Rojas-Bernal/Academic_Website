@@ -122,9 +122,12 @@ sections:
           date_end: '2023-06-30'
           description: |2-
               Teaching Assistant:
-              * Econ 556: International Finance (PhD and Masters)
-              * Modelling
-              * Deploying 
+              * International Finance (Ph.D. and Masters): Spring 2023
+              * International Macroeconomics and Finance (Undergrad): Spring 2023, Spring 2022
+              * Monetary Theory (Undergrad 4th year): Summer 2022, Spring 2021, Spring 2020
+              * International Finance (Undergrad 3rd year): Fall 2020, Summer 2021, Fall 2020, Summer 2020, Fall 2019
+              * Money and Banking (Undergrad 3rd year): Summer 2023
+              * Law and Economics (Undergrad 3rd year): Fall 2021
         - title: Universidad de Los Andes
           company: 
           company_url: 
@@ -134,10 +137,16 @@ sections:
           date_end: '2018-06-30'
           description: |2-
               Teaching Assistant:
-              * Econ 556: International Finance (PhD and Masters)
-              ** AAA
-              * Modelling
-              * Deploying
+              * Advanced Econometrics (Ph.D. and Masters): Spring 2018, Fall 2017, Spring 2017
+              * Introduction to Macroeconomics (Undergrad 1st year): Spring 2018, Fall 2017, Spring 2017
+              Undergrad Teaching Assistant:
+              * Financial Derivatives (Undergrad 4th year): Spring 2016
+              * Intermediate Econometrics (Undergrad 2nd year): Spring 2016, Fall 2015, Spring 2015
+              * Constitutional Hermeneutics (Undergrad 2nd year): Spring 2014
+              * General Criminal Law (Undergrad 3rd year): Spring 2014, Spring 2013
+              * Special Criminal Law (Undergrad 3rd year): Fall 2013, Fall 2013
+              * Constitutional Law (Undergrad 2rd year): Fall 2011
+              * Roman Law (Undergrad 2rd year): Spring 2011
     design:
       columns: '1'
   - block: contact
