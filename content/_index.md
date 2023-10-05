@@ -120,9 +120,7 @@ sections:
           location: Sydney, Australia
           date_start: '2023-08-07'
           date_end: '2023-08-10'
-          description: AAAA
-          BBB
-          CCC
+          description: AAAA 
         - title: Asian Meeting of the Econometric Society 2023
           company: Nanyang Technological University
           company_url: 'https://www.ames2023ntu.org/'
