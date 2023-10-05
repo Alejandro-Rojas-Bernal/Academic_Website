@@ -124,6 +124,7 @@ sections:
               Teaching Assistant:
 
               * Econ 556: International Finance (PhD and Masters)
+              ** AAA
               * Modelling
               * Deploying
     design:
