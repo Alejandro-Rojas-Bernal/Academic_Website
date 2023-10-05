@@ -120,7 +120,8 @@ sections:
           location: Vancouver, Canada
           date_start: '2019-08-01'
           date_end: '2023-06-30'
-          description: AAAA 
+          description: AAAA
+          description: BBB 
         - title: Asian Meeting of the Econometric Society 2023
           company: Nanyang Technological University
           company_url: 'https://www.ames2023ntu.org/'
