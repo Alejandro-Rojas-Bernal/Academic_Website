@@ -120,9 +120,20 @@ sections:
           location: Vancouver, Canada
           date_start: '2019-08-01'
           date_end: '2023-06-30'
-          description: |3-
+          description: |2-
               Teaching Assistant:
-
+              * Econ 556: International Finance (PhD and Masters)
+              * Modelling
+              * Deploying 
+        - title: Universidad de Los Andes
+          company: 
+          company_url: 
+          company_logo: UNIANDES
+          location: Bogota, Colombia
+          date_start: '2011-01-01'
+          date_end: '2018-06-30'
+          description: |2-
+              Teaching Assistant:
               * Econ 556: International Finance (PhD and Masters)
               ** AAA
               * Modelling
