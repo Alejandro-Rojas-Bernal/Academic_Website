@@ -120,16 +120,12 @@ sections:
           location: Vancouver, Canada
           date_start: '2019-08-01'
           date_end: '2023-06-30'
-          description: AAAA
-          description: BBB 
-        - title: Asian Meeting of the Econometric Society 2023
-          company: Nanyang Technological University
-          company_url: 'https://www.ames2023ntu.org/'
-          company_logo: ntu-logo
-          location: Singapore
-          date_start: '2023-07-28'
-          date_end: '2023-07-30'
-          description: |2-
+          description: |3-
+              Teaching Assistant:
+
+              * Econ 556: International Finance (PhD and Masters)
+              * Modelling
+              * Deploying
     design:
       columns: '1'
   - block: contact
