@@ -120,7 +120,7 @@ sections:
           location: Vancouver, Canada
           date_start: '2019-08-01'
           date_end: '2023-06-30'
-          description: |3-
+          description: |2-
               Teaching Assistant:
 
               * Econ 556: International Finance (PhD and Masters)
