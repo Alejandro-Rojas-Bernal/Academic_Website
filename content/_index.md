@@ -120,6 +120,7 @@ sections:
           location: Sydney, Australia
           date_start: '2023-08-07'
           date_end: '2023-08-10'
+          url: uploads/resume.pdf
           description: |2-
         - title: Asian Meeting of the Econometric Society 2023
           company: Nanyang Technological University
