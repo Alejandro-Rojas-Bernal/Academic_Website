@@ -7,7 +7,7 @@ summary: In this paper, we estimate how changes in the structure of global input
   - Production Networks
   - Heterogeneity
   - Open Economy
-date: '2023-08-05T12:25:00Z'
+date: '2023-08-07T12:25:00Z'
 featured: false
 
 # Optional external URL for project (replaces project detail page).
