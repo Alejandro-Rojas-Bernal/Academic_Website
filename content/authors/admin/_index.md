@@ -73,7 +73,7 @@ social:
 #  link: https://github.com/gcushen
 - icon: cv
   icon_pack: ai
-  link: uploads/resume.pdf
+  link: uploads/CV_academic_job_market.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
