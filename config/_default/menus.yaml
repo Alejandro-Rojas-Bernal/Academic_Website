@@ -20,7 +20,7 @@ main:
     url: '#teaching'
     weight: 60
   - name: CV
-    url: uploads/resume.pdf
+    url: uploads/CV_academic_job_market.pdf
     weight: 72
   - name: Teaching Evaluations
     URL: uploads/teaching_evaluations.pdf
