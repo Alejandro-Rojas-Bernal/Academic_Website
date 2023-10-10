@@ -21,7 +21,7 @@ organizations:
     url: uploads/Research-Statement.pdf
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributional macroeconomics, international finance, and production networks.
+bio: My research interests include distributional macroeconomics, international finance, and production networks. 
 
 # Interests to show in About widget
 interests:
