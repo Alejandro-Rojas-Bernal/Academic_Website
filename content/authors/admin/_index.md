@@ -17,6 +17,8 @@ role: PhD Candidate in Economics
 organizations:
   - name: University of British Columbia, Vancouver School of Economics
     url: https://economics.ubc.ca/
+  - name: Research Statement
+    link: uploads/CV_Alejandro_Rojas.pdf
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributional macroeconomics, international finance, and production networks.
