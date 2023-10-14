@@ -4,6 +4,7 @@ summary: In this paper, I develop an aggregation theory for distorted production
 description:  |2-
     Responsibilities include:
 
+    * Analysing
 authors:
 - Alejandro Rojas-Bernal
 tags:
