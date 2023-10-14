@@ -4,13 +4,13 @@ summary: In this paper, I develop an aggregation theory for distorted production
 
   * **`PRESENTED AT`**
     
-  * North American Summer Meeting of the Econometric Society
+  * North American Summer Meeting of the Econometric Society (2023)
     
-  * Asian Meeting of the Econometric Society
+  * Asian Meeting of the Econometric Society (2023)
     
-  * Australasia Meeting of the Econometric Society
+  * Australasia Meeting of the Econometric Society (2023)
     
-  * Canadian Economic Association Conference
+  * Canadian Economic Association Conference (2023)
 authors:
 - Alejandro Rojas-Bernal
 tags:
