@@ -11,6 +11,13 @@ summary: In this paper, I develop an aggregation theory for distorted production
   * Australasia Meeting of the Econometric Society (2023)
     
   * Canadian Economic Association Conference (2023)
+
+  * **`UPCOMING PRESENTATIONS`**
+    
+  * Lacea Lames 2023 (November 18th - Topics in Inequality)
+
+  * ASSA 2024 (January 6th - Heterogenous Effects of Inflation)
+      
 authors:
 - Alejandro Rojas-Bernal
 tags:
