@@ -16,7 +16,7 @@ summary: In this paper, I develop an aggregation theory for distorted production
     
   * Lacea Lames 2023 (November 18th - Topics in Inequality)
 
-  * ASSA 2024 (January 6th - Heterogenous Effects of Inflation)
+  * ASSA 2024 (January 6th - Heterogeneous Effects of Inflation)
       
 authors:
 - Alejandro Rojas-Bernal
