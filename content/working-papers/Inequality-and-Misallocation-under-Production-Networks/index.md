@@ -40,7 +40,7 @@ links:
     name: Tweet
     url: https://twitter.com/alejandro_econ/status/1690198520421347328?s=20
   - icon: ssrn
-    icon_pack: fab
+    icon_pack: ai
     name: SSRN
     url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4585647
 url_code: ''
