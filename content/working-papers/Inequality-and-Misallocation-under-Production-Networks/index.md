@@ -16,7 +16,7 @@ summary: In this paper, I develop an aggregation theory for distorted production
     
   * Lacea Lames 2023 (November 18th - Topics in Inequality)
 
-  * Labor, Firms, and Macro Reading Group (December 2nd - url: https://sites.google.com/view/laborfirmsmacro/home)
+  * Labor, Firms, and Macro Reading Group (December 2nd)
 
   * ASSA 2024 (January 6th - Heterogeneous Effects of Inflation)
       
