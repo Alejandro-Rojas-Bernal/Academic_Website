@@ -49,7 +49,7 @@ links:
     url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4585647
 url_code: ''
 url_pdf: ''
-url_slides: content/working-papers/Inequality-and-Misallocation-under-Production-Networks/IMPN-Slides.pdf
+url_slides: uploads/IMPN-Slides.pdf
 url_video: ''
 
 
