@@ -24,6 +24,10 @@ links:
   #  icon_pack: fab
   #  name: Follow
   #  url: 
+  - icon: ssrn
+    icon_pack: ai
+    name: SSRN
+    url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4615611
 url_code: ''
 url_pdf: ''
 url_slides: ''
