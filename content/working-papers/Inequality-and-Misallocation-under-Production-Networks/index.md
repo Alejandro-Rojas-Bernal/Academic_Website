@@ -12,13 +12,15 @@ summary: In this paper, I develop an aggregation theory for distorted production
     
   * Canadian Economic Association Conference (2023)
 
-  * **`UPCOMING PRESENTATIONS`**
-    
   * Lacea Lames 2023 (November 18th - Topics in Inequality)
 
   * Universidad del Rosario (November 21st)
 
+  * **`UPCOMING PRESENTATIONS`**
+
   * Labor, Firms, and Macro Reading Group (December 2nd)
+
+  * Banco de La Republica (December 6th)
 
   * ASSA 2024 (January 6th - Heterogeneous Effects of Inflation)
       
