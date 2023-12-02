@@ -16,9 +16,9 @@ summary: In this paper, I develop an aggregation theory for distorted production
 
   * Universidad del Rosario (November 21st)
 
-  * **`UPCOMING PRESENTATIONS`**
-
   * Labor, Firms, and Macro Reading Group (December 2nd)
+
+  * **`UPCOMING PRESENTATIONS`**
 
   * Banco de La Republica (December 6th)
 
