@@ -18,9 +18,9 @@ summary: In this paper, I develop an aggregation theory for distorted production
 
   * Labor, Firms, and Macro Reading Group (December 2nd)
 
-  * **`UPCOMING PRESENTATIONS`**
-
   * Banco de La Republica (December 6th)
+
+  * **`UPCOMING PRESENTATIONS`**
 
   * ASSA 2024 (January 6th - Heterogeneous Effects of Inflation)
       
