@@ -83,5 +83,7 @@ email: ''
 
 I am a macroeconomist working in production networks, international finance, and inequality. My job market paper explores how variations in income and consumption distributions affect aggregate misallocation and total factor productivity.  
 
-I am in the 2023-2024 job market. I will be available in person at the 2024 ASSA meeting in San Antonio, Texas. 
+I will join the Department of Economics at the University of Hawai'i at Manoa as an assistant professor in the Fall of 2024.
+
+ 
 {style="text-align: justify;"}
