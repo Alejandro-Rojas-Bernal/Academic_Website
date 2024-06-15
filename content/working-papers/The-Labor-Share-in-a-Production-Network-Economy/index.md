@@ -6,7 +6,7 @@ authors:
 tags:
   - Production Networks
   - Heterogeneity
-date: '2023-08-10T12:25:00Z'
+date: '2024-06-10T12:25:00Z'
 featured: true
 
 # Optional external URL for project (replaces project detail page).
