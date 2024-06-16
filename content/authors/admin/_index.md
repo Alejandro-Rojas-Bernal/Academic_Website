@@ -11,12 +11,12 @@ last_name: Rojas Bernal
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Economics
+role: Assistant Professor Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of British Columbia, Vancouver School of Economics
-    url: https://economics.ubc.ca/
+  - name: University of Hawai'i at Manoa, Department of Economics
+    url: https://www.economics.hawaii.edu/
 #  - name: Research Statement
 #    url: uploads/Research-Statement.pdf
 
