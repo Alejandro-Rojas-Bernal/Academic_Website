@@ -28,11 +28,11 @@ summary: In this paper, I develop an aggregation theory for distorted production
 
   * Universidad Diego Portales 
 
-  * Bankf of Canada 
+  * Bank of Canada 
 
-  * Technologico de Monterrey
+  * Teconlogico de Monterrey
 
-  * Fundacao Getulio Vargas
+  * Fundacao Getulio Vargas - Sao Paulo
 
   * Tilburg University 
       
