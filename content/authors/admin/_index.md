@@ -11,7 +11,7 @@ last_name: Rojas Bernal
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor Economics
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
