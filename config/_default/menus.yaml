@@ -22,12 +22,12 @@ main:
   - name: CV
     url: uploads/CV_Alejandro_Rojas.pdf
     weight: 72
-  - name: Teaching Evaluations
-    URL: uploads/teaching_evaluations.pdf
-    weight: 84
+ # - name: Teaching Evaluations
+ #   URL: uploads/teaching_evaluations.pdf
+ #   weight: 84
   - name: Contact
     url: '#contact'
-    weight: 96
+    weight: 84
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
