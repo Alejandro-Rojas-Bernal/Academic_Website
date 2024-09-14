@@ -83,7 +83,7 @@ email: ''
 
 I am a macroeconomist working in production networks, international finance, and inequality. My job market paper explores how variations in income and consumption distributions affect aggregate misallocation and total factor productivity.  
 
-I will join the Department of Economics at the University of Hawai'i at Manoa as an assistant professor in the Fall of 2024.
+I am an Assistant Professor at the Department of Economics at the University of Hawai'i at Manoa.
 
  
 {style="text-align: justify;"}
