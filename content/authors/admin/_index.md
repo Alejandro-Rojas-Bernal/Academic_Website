@@ -16,7 +16,7 @@ role: Assistant Professor
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Hawai'i at Manoa, Department of Economics
-    url: https://www.economics.hawaii.edu/
+    url: https://economics.hawaii.edu/people/
 #  - name: Research Statement
 #    url: uploads/Research-Statement.pdf
 
