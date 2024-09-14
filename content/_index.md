@@ -155,16 +155,16 @@ sections:
       title: Contact
       subtitle:
       # Contact (add or remove contact options as necessary)
-      email: alejandrorojasecon@gmail.com
-      phone: +1-778-751-8194
+      email: rojasber@hawaii.edu
+      phone: +1-808-956-7071
       #appointment_url: 'https://calendly.com'
       address:
-        street: 6000 Iona Drive
-        city: Vancouver
-        region: BC
-        postcode: 'V6T 1Z1'
-        country: Canada
-        country_code: CA
+        street: 2424 Maile Way, Saunders Hall 531
+        city: Honolulu
+        region: Hawai'i
+        postcode: '96822'
+        country: United States
+        country_code: US
       #directions: Office 435
       #office_hours:
       #  - 'Monday 10:00 to 13:00'
