@@ -4,37 +4,47 @@ summary: In this paper, I develop an aggregation theory for distorted production
 
   * **`2023`**
     
-  * North American Summer Meeting of the Econometric Society
+  * North American Summer Meeting of the Econometric Society - Los Angeles, California
     
-  * Asian Meeting of the Econometric Society 
+  * Asian Meeting of the Econometric Society - Singapore
     
-  * Australasia Meeting of the Econometric Society
+  * Australasia Meeting of the Econometric Society - Sydney, NSW
     
-  * Canadian Economic Association Conference 
+  * Canadian Economic Association Conference - Winnipeg, Manitoba
 
-  * Lacea Lames 2023 
+  * Lacea Lames 2023 - Bogota, Colombia
 
-  * Universidad del Rosario
+  * Universidad del Rosario - Bogota, Colombia
 
-  * Labor, Firms, and Macro Reading Group 
+  * Labor, Firms, and Macro Reading Group - Online
 
-  * Banco de La Republica
+  * Banco de La Republica - Bogota, Colombia
 
   * **`2024`**
 
-  * ASSA 2024
+  * ASSA 2024 - San Antonio, Texas
 
   * University of Hawai'i at Manoa
 
-  * Universidad Diego Portales 
+  * Universidad Diego Portales - Online
 
-  * Bank of Canada 
+  * Bank of Canada - Ottawa, Canada
 
-  * Teconlogico de Monterrey
+  * Tecnologico de Monterrey - Online
 
-  * Fundacao Getulio Vargas - Sao Paulo
+  * Fundacao Getulio Vargas - Sao Paulo, Brazil
 
-  * Tilburg University 
+  * Tilburg University - Tilburg, Netherlands
+
+  * **`2025`**
+
+  * Midwest Macro Meeting - Federal Reserve Bank of Kansas
+
+  * ECINEQ 2025 - Society for the Study of Economic Inequality - World Bank, Washington D.C.
+
+  * 2025 World Congress of the Econometric Society - Seoul, Korea
+
+  * 10th Annual International Conference in Hawaiʻi - Navigating Global Challenges
       
 authors:
 - Alejandro Rojas-Bernal
