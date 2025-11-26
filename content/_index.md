@@ -113,8 +113,19 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: University of Hawai'i at Manoa
+          company: 
+          company_url: 
+          company_logo: UHM
+          location: Honolulu, Hawai'i
+          date_start: '2024-08-01'
+          date_end: 
+          description: |2-
+              * International Macroeconomics ECON 662 (Ph.D. and Masters): Spring 2025
+              * Global Economic Crisis and Recovery ECON 414: Fall 2024, Spring 2025
+              * Principles of Macroeconomics ECON 131: Fall 2025, Spring 2026
         - title: University of British Columbia
-          company: Teaching Evaluations
+          company: 
           company_url: 
           company_logo: UBC
           location: Vancouver, Canada
