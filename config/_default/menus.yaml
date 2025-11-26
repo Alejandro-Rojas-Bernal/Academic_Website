@@ -13,9 +13,6 @@ main:
   - name: Publications
     url: '#featured'
     weight: 36
-  - name: Talks
-    url: '#talks'
-    weight: 48
   - name: Teaching
     url: '#teaching'
     weight: 60
