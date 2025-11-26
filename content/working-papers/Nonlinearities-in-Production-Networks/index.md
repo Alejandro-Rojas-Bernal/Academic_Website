@@ -7,7 +7,7 @@ summary: We offer the first non-linear analysis of how microeconomic disruptions
 
   * **`2025`**
 
-  * 31nd Annual Symposium of the Society for Nonlinear Dynamics and Econometrics - San Antonio, Texas
+  * 32nd Annual Symposium of the Society for Nonlinear Dynamics and Econometrics - San Antonio, Texas
 
 tags:
   - Production Networks
