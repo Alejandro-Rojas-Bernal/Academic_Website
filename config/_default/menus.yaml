@@ -19,9 +19,6 @@ main:
   - name: CV
     url: uploads/CV_Alejandro_Rojas.pdf
     weight: 72
- # - name: Teaching Evaluations
- #   URL: uploads/teaching_evaluations.pdf
- #   weight: 84
   - name: Contact
     url: '#contact'
     weight: 84
