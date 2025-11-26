@@ -4,11 +4,11 @@ summary: In this paper, I develop a general aggregation theory that explains the
 
 * **`2024`**
 
-  * Hawaii-Hitotsubashi-Keio (H2K) Workshop on International Economics
+* Hawaii-Hitotsubashi-Keio (H2K) Workshop on International Economics
 
 * **`2025`**
 
-  * Western Economic Association 100th Annual Conference - San Francisco, California
+* Western Economic Association 100th Annual Conference - San Francisco, California
 
 
 authors:
