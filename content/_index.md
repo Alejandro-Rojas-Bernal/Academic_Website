@@ -115,7 +115,7 @@ sections:
       items:
         - title: University of British Columbia
           company: Teaching Evaluations
-          company_url: uploads/teaching_evaluations.pdf
+          company_url: 
           company_logo: UBC
           location: Vancouver, Canada
           date_start: '2019-08-01'
