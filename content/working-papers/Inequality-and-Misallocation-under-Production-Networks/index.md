@@ -46,7 +46,7 @@ summary: This paper examines the equity–efficiency tradeoff by showing that ch
 
   * 10th Annual International Conference in Hawaiʻi - Navigating Global Challenges
 
-  *  * **`2026`**
+  * **`2026`**
 
   * University of Hawai'i at Manoa - Math Department
       
