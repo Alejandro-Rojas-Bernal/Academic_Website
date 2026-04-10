@@ -28,7 +28,7 @@ links:
   #  url: 
 url_code: ''
 url_pdf: ''
-url_slides: uploads/IMPN-Slides.pdf
+url_slides: uploads/IRVAPN-Slides.pdf
 url_video: ''
 
 
