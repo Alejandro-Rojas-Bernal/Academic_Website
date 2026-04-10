@@ -2,7 +2,7 @@
 title: Incidence on Real Value Added in Production Networks
 authors:
 - Alejandro Rojas-Bernal
-summary:
+summary: XX
 
   * **`2026`**
 
@@ -28,7 +28,7 @@ links:
   #  url: 
 url_code: ''
 url_pdf: ''
-url_slides: ''
+url_slides: uploads/IMPN-Slides.pdf
 url_video: ''
 
 
