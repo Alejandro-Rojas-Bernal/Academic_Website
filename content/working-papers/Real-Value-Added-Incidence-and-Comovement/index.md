@@ -11,7 +11,7 @@ summary: "I develop a theory of real value-added incidence for arbitrary firm cl
 
 tags:
   - Production Networks
-date: '2026-04-09T12:25:00Z'
+date: '2026-06-02T12:25:00Z'
 featured: true
 
 # Optional external URL for project (replaces project detail page).
