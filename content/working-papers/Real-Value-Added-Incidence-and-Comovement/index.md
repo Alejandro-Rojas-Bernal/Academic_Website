@@ -7,6 +7,7 @@ summary: I develop a theory of real value-added incidence for arbitrary firm clu
   * **`2026`**
 
   * Midwest International Trade Conference - Columbus, Ohio
+    
   * Midwest Macroeconomics Meeting - Milwaukke, Wisconsin
 
 tags:
