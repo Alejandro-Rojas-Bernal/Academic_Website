@@ -1,5 +1,6 @@
 ---
 title: "Icarus and Daedalus: Non-Gaussian Micro Shocks and Aggregate Productivity Risk"
+subtitle: "With [Ronit Mukherji](https://ronitmukherji.com)"
 authors:
 - Alejandro Rojas-Bernal
 - Ronit Mukherji
