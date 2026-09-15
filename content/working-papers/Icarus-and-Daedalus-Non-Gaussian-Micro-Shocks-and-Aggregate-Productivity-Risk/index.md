@@ -7,7 +7,7 @@ summary: How does productivity evolve at the microeconomic level, and how does t
 
   * **`2026`**
 
-  * Midwest International Trade Conference - Columbus, Ohio
+  * - Honolulu, Hawai'i
 
 tags:
   - Production Networks
