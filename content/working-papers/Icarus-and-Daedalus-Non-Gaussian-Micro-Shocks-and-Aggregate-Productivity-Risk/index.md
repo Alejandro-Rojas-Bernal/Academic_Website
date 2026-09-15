@@ -1,5 +1,5 @@
 ---
-title: Icarus and Daedalus: Non-Gaussian Micro Shocks and Aggregate Productivity Risk (New Paper)
+title: Icarus and Daedalus, Non-Gaussian Micro Shocks and Aggregate Productivity Risk
 authors:
 - Alejandro Rojas-Bernal
 - Ronit Mukherji
