@@ -36,7 +36,7 @@ links:
     url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4615611
 url_code: ''
 url_pdf: ''
-url_slides: ''
+url_slides: uploads/Slides_Icarus_Daedalus.pdf
 url_video: ''
 
 ---
