@@ -9,8 +9,11 @@ summary: How does productivity evolve at the microeconomic level, and how does t
   * **`2026`**
 
   * 11th Annual International Conference in Hawaiʻi with Kobe University - Honolulu, Hawai'i
+    
   * Department of Economics, University of Hawai'i at Manoa - Honolulu, Hawai'i
+    
   * 2nd conference on Networks in Economics: Theory and Evidence - Honolulu, Hawai'i
+    
   * Department of Economics, University of Washington - Seattle, Washington
 
 tags:
