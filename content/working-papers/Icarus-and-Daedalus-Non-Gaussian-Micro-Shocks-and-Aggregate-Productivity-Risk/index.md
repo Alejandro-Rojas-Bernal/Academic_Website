@@ -12,7 +12,7 @@ summary: How does productivity evolve at the microeconomic level, and how does t
     
   * Department of Economics, University of Hawaii at Manoa - Honolulu, Hawaii
     
-  * 2nd conference on Networks in Economics: Theory and Evidence - Honolulu, Hawaii
+  * 2nd conference on Networks in Economics, Theory and Evidence - Honolulu, Hawaii
     
   * Department of Economics, University of Washington - Seattle, Washington
 
